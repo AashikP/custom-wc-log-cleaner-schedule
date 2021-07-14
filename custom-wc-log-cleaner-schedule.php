@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom WC Log cleaner schedule
  * Description: Plugin to set the number of days after which WooCommerce logs should be cleared from `/wp-content/uploads/wc-logs/`
- * Version: 0.9
+ * Version: 1.0.0
  * Author: AashikP
  * Author URI: https://aashikp.com
  * Text Domain: apcwclog
